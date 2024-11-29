@@ -1,0 +1,20 @@
+p{
+    text-align:center;
+    color: white;
+}
+*{
+background: rgba(0,0,0,0.4) url(img/imgF2.jpg);
+background-blend-mode: darken;
+background-size:100% 100%;
+background-attachment:fixed;
+color:white;
+}
+h1{
+    text-align: center;
+    color: red;
+}
+a{
+    
+    color: brown;
+    text-align: center;
+}
