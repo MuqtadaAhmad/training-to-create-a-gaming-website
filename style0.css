@@ -1,8 +1,30 @@
+
+select,label{
+    color: rgb(157, 127, 255);
+   width: 50px;
+    position: relative;
+    top: 50px;
+}
+.ii
+{
+    text-align: right;
+    position:relative;
+   
+    top: 2%;
+}
+div
+{
+    position: absolute;
+   left: 1100px;
+ 
+    
+   
+}
 p{
     text-align:center;
     color: white;
 }
-*{
+body{
 background-color: black;
 
 color:white;
@@ -11,12 +33,29 @@ h1{
     text-align: center;
     color: red;
 }
-a{
-    
-    
-    text-align: center;
-}
-#1
+.a
 {
     text-align: left;
+}
+label#text{
+    position: relative;
+    left: 800px;
+    
+}
+textarea{
+    position: absolute;
+    left: 1000px;
+    width: 200px;
+    height: 30px;
+    
+}
+input[type="submit"]
+{
+  width: 70px;
+  height: 50px;
+    position: relative;
+    left: 100px;
+    top:30px ;
+    color:blue ;
+    text-align: center;
 }
